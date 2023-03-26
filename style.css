@@ -93,8 +93,7 @@
 }
 
 .ex-9-img:hover{
-    margin: 0;
-    width: 600px;
+    transform: scale(1.5);
     border-radius: 5%;
     filter: sepia(0.8);
 }
